@@ -38,14 +38,6 @@ class Clock extends React.Component{
     }
 }
 
-function App(){
-    return (
-        <div>
-            hi puss
-        </div>
-    )
-}
-
 ReactDOM.render(
     <Clock/>,
     document.getElementById('root')
